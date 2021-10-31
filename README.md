@@ -1,5 +1,5 @@
 # hello-world
-repositorio de prueba
+Otro Repositorio
 Nombre: David
 Apellidos: Pérez
 Proyecto: 1º Prueba de iniciación
